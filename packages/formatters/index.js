@@ -1,4 +1,4 @@
 module.exports = function () {
-  console.log("formatters");
+  console.log("formatters, formatters");
   return "formatters!";
 }
