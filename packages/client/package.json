@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "ISC",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,6 @@
   },
   "gitHead": "d3edeafd40b94e2c19b457435b7975ef029d78d7",
   "dependencies": {
-    "formatters": "0.0.1"
+    "formatters": "^0.0.2"
   }
 }
