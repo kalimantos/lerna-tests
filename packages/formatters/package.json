@@ -1,13 +1,12 @@
 {
-  "name": "client",
+  "name": "formatters",
   "version": "0.0.1",
   "license": "ISC",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "d3edeafd40b94e2c19b457435b7975ef029d78d7",
-  "dependencies": {
-    "formatters": "0.0.1"
+  "bugs": {
+    "url": "https://github.com/kalimantos/lerna-tests/issues"
   }
 }
